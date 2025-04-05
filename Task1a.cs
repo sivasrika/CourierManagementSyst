@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CourierManagementSyst.task1
+namespace CourierManagementSyst
 {
-    class task1a
+    class Task1a
     {
         static void Main()
         {
