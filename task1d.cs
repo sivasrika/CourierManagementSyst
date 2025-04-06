@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace CourierManagementSyst
 {
-    class task1d
    
   
         {
