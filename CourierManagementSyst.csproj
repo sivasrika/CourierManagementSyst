@@ -35,6 +35,9 @@
   <PropertyGroup>
     <StartupObject>CourierManagementSyst.task1d</StartupObject>
   </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -52,6 +55,10 @@
     <Compile Include="task1b.cs" />
     <Compile Include="task1c.cs" />
     <Compile Include="task1d.cs" />
+    <Compile Include="task2\task2a.cs" />
+    <Compile Include="task2\task2b.cs" />
+    <Compile Include="task3\task3a.cs" />
+    <Compile Include="task3\task3b.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
