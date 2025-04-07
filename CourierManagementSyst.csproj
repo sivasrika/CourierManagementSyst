@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CourierManagementSyst.task1d</StartupObject>
+    <StartupObject>CourierManagementSyst.task1.task1d</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <NoWin32Manifest>true</NoWin32Manifest>
@@ -49,12 +49,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Task1a.cs" />
+    <Compile Include="task 4\task4a.cs" />
+    <Compile Include="task 4\task4b.cs" />
+    <Compile Include="task 4\task4c.cs" />
+    <Compile Include="task 4\task4d.cs" />
+    <Compile Include="task 4\task4e.cs" />
+    <Compile Include="task 4\task4f.cs" />
+    <Compile Include="task 4\task4g.cs" />
     <Compile Include="Databasehelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="task1b.cs" />
-    <Compile Include="task1c.cs" />
-    <Compile Include="task1d.cs" />
+    <Compile Include="task1\task1a.cs" />
+    <Compile Include="task1\task1b.cs" />
+    <Compile Include="task1\task1c.cs" />
+    <Compile Include="task1\task1d.cs" />
     <Compile Include="task2\task2a.cs" />
     <Compile Include="task2\task2b.cs" />
     <Compile Include="task3\task3a.cs" />

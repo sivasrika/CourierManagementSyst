@@ -5,12 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CourierManagementSyst
+namespace CourierManagementSyst.task1
 {
     class task1d
-   
-  
-        {
+    {
         static void AssignCourierToShipment(int courierId)
         {
             // Use the connection from your DatabaseHelper class.
@@ -94,3 +92,5 @@ namespace CourierManagementSyst
         }
     }
 }
+    
+

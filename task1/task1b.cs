@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.SqlClient;
 
-namespace CourierManagementSyst
+namespace CourierManagementSyst.task1
 {
     class task1b
     {
@@ -45,5 +45,10 @@ namespace CourierManagementSyst
         }
     }
 }
-    
+
+
+
+
+
+
 
